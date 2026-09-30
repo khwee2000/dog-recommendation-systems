@@ -2,7 +2,7 @@
 
 # 🐶 DBTI: 성격 기반 반려견 추천
 
-**네이버 블로그 텍스트를 TF-IDF로 분석해 16개 품종의 성격 유형(DBTI)을 뽑고, 4문항 설문으로 예비 반려인에게 맞는 품종을 추천합니다**
+**블로그 텍스트 TF-IDF로 16개 품종의 성격 유형을 뽑고, 4문항 설문으로 나와 맞는 반려견을 추천합니다**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
